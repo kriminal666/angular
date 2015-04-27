@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: angular
+        psr4_prefix: angular
+        src_path: app
